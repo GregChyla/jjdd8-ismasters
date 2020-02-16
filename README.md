@@ -1,3 +1,4 @@
-Initial commit for feature branch feature/JJDD8ISM-3
+##Junior Java Developer
+#Infoshare Academy
 
-# jjdd8-team2
+Final project - 3city events. Web app using JEE 8, Maven, Docker, Hibernate
